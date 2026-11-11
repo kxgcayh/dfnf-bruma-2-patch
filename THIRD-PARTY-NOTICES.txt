@@ -1,0 +1,10 @@
+DFNF Bruma 2 Patch: third-party material
+
+The plugin is a modified copy of another author's work. No licence is granted for it. It is shared privately for one
+load order and must not be redistributed.
+
+DFNF - Bruma.esp
+  Source: DFNF - Default Face NPCs Fixed 1.25, Nexus Mods 54515, by AndrealletiusVIII and UnknownG12.
+  Change: 40 NPC_ override records removed (records that Beyond Skyrim - Bruma 2.0.0 and Assets SE no longer contain) and the BS_DLC_patch.esp master removed.
+
+Requires Beyond Skyrim - Bruma 2.0.0 (Nexus 10917) and Beyond Skyrim - Assets SE (Nexus 198585).

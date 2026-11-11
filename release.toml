@@ -1,0 +1,17 @@
+name = "DFNF-Bruma-2-Patch"
+display_name = "DFNF Bruma 2 Patch"
+version = "0.1.0"
+description = "DFNF - Bruma without the 40 NPC records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed. Private use."
+
+[files]
+"DFNF - Bruma.esp" = "dist/DFNF - Bruma.esp"
+"THIRD-PARTY-NOTICES.txt" = "THIRD-PARTY-NOTICES.txt"
+
+[nexus]
+mod_id = 0
+file_id = 0
+category = "optional"
+mod_category = 84
+
+[github]
+repo = "kxgcayh/dfnf-bruma-2-patch"
