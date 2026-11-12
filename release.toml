@@ -1,6 +1,6 @@
 name = "DFNF-Bruma-2-Patch"
 display_name = "DFNF Bruma 2 Patch"
-version = "0.1.0"
+version = "0.1.1"
 description = "DFNF - Bruma without the 40 NPC records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed."
 
 [files]
