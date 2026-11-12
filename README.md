@@ -1,6 +1,6 @@
 # DFNF Bruma 2 Patch
 
-Local and private, never published: DFNF - Bruma.esp with the records removed that Beyond Skyrim - Bruma 2.0.0 and
+DFNF - Bruma.esp with the records removed that Beyond Skyrim - Bruma 2.0.0 and
 Beyond Skyrim - Assets SE 2026.11.11 no longer contain.
 
 Source: DFNF - Default Face NPCs Fixed 1.25, Nexus Mods 54515, by AndrealletiusVIII and UnknownG12.

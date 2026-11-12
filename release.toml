@@ -1,7 +1,7 @@
 name = "DFNF-Bruma-2-Patch"
 display_name = "DFNF Bruma 2 Patch"
 version = "0.1.0"
-description = "DFNF - Bruma without the 40 NPC records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed. Private use."
+description = "DFNF - Bruma without the 40 NPC records Beyond Skyrim - Bruma 2.0.0 and Assets SE removed."
 
 [files]
 "DFNF - Bruma.esp" = "dist/DFNF - Bruma.esp"
