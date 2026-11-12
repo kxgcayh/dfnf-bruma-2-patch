@@ -28,3 +28,15 @@ dropped master is gone, and every kept record equals its input after the normali
 ## Install
 
 Copy `dist/DFNF - Bruma.esp` over the original in MO2. Reinstalling the source mod restores the original.
+
+## Credits and Permissions
+
+Checked on 2026-11-11 and 2026-11-13 against each mod's Nexus permission block and author notes, not its description or readme. The plugin is derived from the mods below and stays under their authors' terms.
+
+| Mod | Author | What the Nexus page says | Status |
+|---|---|---|---|
+| [DFNF - Default Face NPCs Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/54515) | AndrealletiusVIII | May be redistributed, included in another work and modified, with credit, a link back and distribution under the same license. | allowed |
+| [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917) | The Beyond Skyrim - Cyrodiil Development Team | No permission block. Author notes: addons and compatibility patches may be distributed, and fixes should be shared with the team first; the full mod and resources made for Beyond Skyrim may not be redistributed. | allowed |
+| [Beyond Skyrim - Assets SE](https://www.nexusmods.com/skyrimspecialedition/mods/198585) | BeyondSkyrimDC | No permission block. Author notes: as Beyond Skyrim - Bruma SE (compatibility patches allowed; the full mod and its resources may not be redistributed). | allowed |
+
+Every source allows a patch like this with credit; credit the authors above when publishing. DFNF requires distribution under the same license, with credit and a link back. Beyond Skyrim asks that fixes be shared with its team first.
