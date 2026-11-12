@@ -15,8 +15,8 @@ plugins. The EditorIDs of the removed records are in neither plugin, so nothing 
     python3 build.py --write  # serialize with Spriggit, remove, deserialize to dist/, verify
 
 Inputs (`inputs/`, pinned by `inputs.sha256`, not committed): the plugin from the installed mod, `BSHeartland.esm` from
-Bruma 2.0.0 and `BSAssets.esm` from Assets SE 2026.11.11. Needs the Skyrim AI toolkit's `tools/spriggit-cli.sh`
-(`SKYRIM_TOOLKIT` overrides its path).
+Bruma 2.0.0 and `BSAssets.esm` from Assets SE 2026.11.11. Needs `tools/spriggit-cli.sh` from the [Skyrim AI toolkit](https://github.com/kxgcayh/skyrim-agents-toolkit): clone it next to this repo
+(or next to a parent folder), or set `SKYRIM_TOOLKIT` to its folder.
 
 ## Verification
 
